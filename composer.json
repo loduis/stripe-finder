@@ -3,7 +3,7 @@
     "description": "This is a tool for finder all object of stripe",
     "type": "library",
     "require": {
-        "stripe/stripe-php": "^5.8"
+        "stripe/stripe-php": "^6.6"
     },
     "autoload": {
         "psr-4": {
